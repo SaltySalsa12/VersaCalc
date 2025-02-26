@@ -2,11 +2,10 @@
 
 VersaCalc is a modern, versatile calculator application built with React. It offers both standard and scientific modes, complete with memory functions, calculation history, multiple themes, keyboard support, and a responsive design that adapts perfectly to any screen. Whether you need basic arithmetic or advanced mathematical functions, VersaCalc has you covered.
 
-## 🌐 The Application
+##🚀 **[Try VersaCalc Live](https://versacalc.vercel.app/)** 
 
-  🚀 **[Try VersaCalc Live](https://versacalc.vercel.app/)** 
-  ---
-  [Scientific Calculator](https://github.com/user-attachments/assets/85383624-2b24-4c91-932f-fdadabe2e7e2)
+## 🌐 The Application
+[Scientific Calculator](https://github.com/user-attachments/assets/85383624-2b24-4c91-932f-fdadabe2e7e2)
   
 ## 🎨 Features
 
